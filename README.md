@@ -1,11 +1,5 @@
-Sure Samar! Here's a 🔥 **GitHub README description** tailored for your Gesture Mouse project — clean, Gen Z-friendly, and professional but still vibing with the energy of the work you’ve put in:
-
----
-
 # 🖱️ Gesture Mouse - AI Powered Touchless Controller  
 > Control your computer like a boss using only your hand gestures — no mouse, no touch, just ✋🧠💻.
-
-![gesture_mouse_banner](https://your-image-link-here-if-any.com)
 
 ## 🚀 Overview  
 Gesture Mouse is an AI-powered, touchless mouse controller built using **MediaPipe** and **OpenCV**. It lets you move your cursor, click, scroll, zoom, switch tabs, play/pause media — all with just your hand gestures captured through a webcam.  
@@ -49,12 +43,6 @@ Gesture_Mouse/
 
 ---
 
-## 📸 Demo
-
-https://user-demo-link-or-gif-here.com
-
----
-
 ## 🔧 Installation & Run
 ```bash
 git clone https://github.com/your-username/Gesture_Mouse.git
@@ -81,11 +69,3 @@ Feel free to fork, star, and contribute! Pull requests and issues are welcome �
 
 ## 📄 License
 MIT License
-
----
-
-## Made with ❤️ by [Samar](https://github.com/your-github)
-
----
-
-Let me know if you want a version that includes GIFs/screenshots or deploy-ready instructions. I can also generate a logo or banner image for your GitHub page.
